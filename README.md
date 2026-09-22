@@ -39,3 +39,15 @@ El proyecto está dividido estrictamente en **tres clases principales**:
    ```bash
    git clone [https://github.com/jaramillolopez/Tree-Stock.git](https://github.com/jaramillolopez/Tree-Stock.git)
    cd Tree-Stock
+
+   ## 📸 Evidencias de Funcionamiento
+   
+
+1. **Registro de Productos:**  
+   ![Registro de Productos](REGISTRARPRODUCTO.png)
+
+2. **Mostrar Inventario (Inorden):**  
+   ![Recorrido Inorden](MOSTRARINVENTARIO.png)
+
+3. **Búsqueda de Productos:**  
+   ![Búsqueda de Productos](BUSCARPRODUCTO.png)
