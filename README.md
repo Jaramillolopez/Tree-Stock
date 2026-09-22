@@ -44,10 +44,10 @@ El proyecto está dividido estrictamente en **tres clases principales**:
    
 
 1. **Registro de Productos:**  
-   ![Registro de Productos](REGISTRARPRODUCTO.png)
+   ![Registro de Productos](CAPTURAS/REGISTRARPRODUCTO.png)
 
 2. **Mostrar Inventario (Inorden):**  
-   ![Recorrido Inorden](MOSTRARINVENTARIO.png)
+   ![Recorrido Inorden](CAPTURAS/MOSTRARINVENTARIO.png)
 
 3. **Búsqueda de Productos:**  
-   ![Búsqueda de Productos](BUSCARPRODUCTO.png)
+   ![Búsqueda de Productos](CAPTURAS/BUSCARPRODUCTO.png)
