@@ -27,3 +27,25 @@ Abre tu terminal y clona el proyecto localmente:
 ```bash
 git clone [https://github.com/jaramillolopez/Tree-Stock.git](https://github.com/jaramillolopez/Tree-Stock.git)
 cd Tree-Stock
+## 📸 Evidencias de Funcionamiento
+
+### Búsqueda de Productos
+![Búsqueda de Producto](CAPTURAS/BUSCARPRODUCTO.png)
+
+### Inventario Ordenado (Inorden)
+![Inventario Ordenado](CAPTURAS/LISTADOINVENTARIO.png)
+
+### Actualizaciones y Configuración
+![Actualización del Repositorio](CAPTURAS/ACTUALIZACIONREADME.png)
+
+Estructura del Proyecto
+
+Tree-Stock/
+├── Producto.java
+├── ArbolInventario.java
+├── Main.java
+├── CAPTURAS/
+│   ├── BUSCARPRODUCTO.png
+│   ├── LISTADOINVENTARIO.png
+│   └── ACTUALIZACIONREADME.png
+└── README.md
