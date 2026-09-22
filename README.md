@@ -27,16 +27,3 @@ Abre tu terminal y clona el proyecto localmente:
 ```bash
 git clone [https://github.com/jaramillolopez/Tree-Stock.git](https://github.com/jaramillolopez/Tree-Stock.git)
 cd Tree-Stock
-
-
-   ## 📸 Evidencias de Funcionamiento
-   
-
-1. **Registro de Productos:**  
-   ![Registro de Productos](CAPTURAS/REGISTRARPRODUCTO.png)
-
-2. **Mostrar Inventario (Inorden):**  
-   ![Recorrido Inorden](CAPTURAS/MOSTRARINVENTARIO.png)
-
-3. **Búsqueda de Productos:**  
-   ![Búsqueda de Productos](CAPTURAS/BUSCARPRODUCTO.png)
