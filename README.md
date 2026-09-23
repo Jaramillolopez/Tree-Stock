@@ -50,3 +50,36 @@ Tree-Stock/
 ### Actualizaciones y Configuración
 
 ![Actualización del Repositorio](CAPTURAS/ACTUALIZACIONREADME.png)
+---
+
+## 🚀 Instrucciones de Ejecución
+
+### 📋 Requisitos
+
+- Java JDK 17 o superior.
+- Terminal de comandos.
+
+### ☕ Verificar la Instalación de Java
+
+```bash
+java -version
+javac -version
+```
+
+### 🔨 Compilar el Proyecto
+
+```bash
+javac *.java
+```
+
+### ▶️ Ejecutar el Programa
+
+```bash
+java Main
+```
+
+### 🧹 Limpiar los Archivos Compilados
+
+```bash
+rm -f *.class
+```
