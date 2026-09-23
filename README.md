@@ -49,3 +49,18 @@ Tree-Stock/
 │   ├── LISTADOINVENTARIO.png
 │   └── ACTUALIZACIONREADME.png
 └── README.md
+## 🎥 Video de Sustentación
+* 🎬 **Ver Video en YouTube:** [https://youtu.be/WS3bN7ca2v0](https://youtu.be/WS3bN7ca2v0)
+
+---
+
+## 📸 Evidencias de Funcionamiento
+
+### Búsqueda de Productos
+![Búsqueda de Producto](CAPTURAS/BUSCARPRODUCTO.png)
+
+### Inventario Ordenado (Inorden)
+![Inventario Ordenado](CAPTURAS/LISTADOINVENTARIO.png)
+
+### Actualizaciones del Repositorio
+![Actualización del Repositorio](CAPTURAS/ACTUALIZACIONREADME.png)
