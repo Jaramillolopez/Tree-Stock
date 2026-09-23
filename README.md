@@ -49,18 +49,27 @@ Tree-Stock/
 │   ├── LISTADOINVENTARIO.png
 │   └── ACTUALIZACIONREADME.png
 └── README.md
+
+# Tree-Stock
+
+Sistema de Gestión de Inventario en Java utilizando un Árbol de Búsqueda Binaria (BST).
+
 ## 🎥 Video de Sustentación
-* 🎬 **Ver Video en YouTube:** [https://youtu.be/WS3bN7ca2v0](https://youtu.be/WS3bN7ca2v0)
+* 🎬 **Ver Video en YouTube:** https://youtu.be/WS3bN7ca2v0
 
 ---
 
 ## 📸 Evidencias de Funcionamiento
 
 ### Búsqueda de Productos
+
 ![Búsqueda de Producto](CAPTURAS/BUSCARPRODUCTO.png)
 
 ### Inventario Ordenado (Inorden)
+
 ![Inventario Ordenado](CAPTURAS/LISTADOINVENTARIO.png)
 
-### Actualizaciones del Repositorio
+### Actualizaciones y Configuración
+
 ![Actualización del Repositorio](CAPTURAS/ACTUALIZACIONREADME.png)
+
