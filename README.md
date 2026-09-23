@@ -5,6 +5,7 @@ Sistema de gestión de inventario para control de stock desarrollado en Java, ut
 ---
 
 ## 👨‍💻 Autor
+
 * **Desarrollador:** Fernando Jaramillo López
 * **Lenguaje:** Java (JDK 17)
 
@@ -28,7 +29,10 @@ Tree-Stock/
 │   ├── LISTADOINVENTARIO.png
 │   └── ACTUALIZACIONREADME.png
 └── README.md
+```
+
 ## 🎥 Video de Sustentación
+
 * 🎬 **Ver Video en YouTube:** https://youtu.be/WS3bN7ca2v0
 
 ---
@@ -46,4 +50,3 @@ Tree-Stock/
 ### Actualizaciones y Configuración
 
 ![Actualización del Repositorio](CAPTURAS/ACTUALIZACIONREADME.png)
-
